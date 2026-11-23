@@ -1,0 +1,15 @@
+SYSTEMBERICHT
+==============================
+
+System
+------------------------------
+Betriebssystem: Linux
+Systemrelease: 6.18.58.1-microsoft-standard-WSL2
+Rechnername: Addi
+Maschinenarchitektur: x86_64
+
+Python
+------------------------------
+Python-Version: 3.14.4
+Python-Implementierung: CPython
+==============================
